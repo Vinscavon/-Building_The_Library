@@ -1,0 +1,7 @@
+/workspaces/-Building_The_Library/endoflife/target/debug/deps/libfnv-4292af1078839d1e.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fnv-1.0.7/lib.rs
+
+/workspaces/-Building_The_Library/endoflife/target/debug/deps/libfnv-4292af1078839d1e.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fnv-1.0.7/lib.rs
+
+/workspaces/-Building_The_Library/endoflife/target/debug/deps/fnv-4292af1078839d1e.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fnv-1.0.7/lib.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fnv-1.0.7/lib.rs:
